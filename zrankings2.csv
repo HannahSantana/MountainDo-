@@ -1,0 +1,221 @@
+,name,true_snow,acres,vert,summit,lifts,score
+0,Jackson Hole,368 in,"2,500 acres","4,139 ft","10,450 ft",12,99.0
+1,Alta Ski Area,521 in,"2,200 acres","2,020 ft","10,550 ft",11,96.9
+2,Snowbird,466 in,"2,500 acres","3,240 ft","11,000 ft",11,96.7
+3,Vail Ski Resort,357 in,"5,289 acres","3,450 ft","11,570 ft",31,92.3
+4,Telluride Ski Resort,279 in,"2,000 acres","3,845 ft","12,570 ft",18,90.2
+5,Whistler,417 in,"8,171 acres","5,354 ft","7,494 ft",37,89.1
+6,Aspen Snowmass,294 in,"3,132 acres","4,030 ft","12,510 ft",20,87.5
+7,Park City Mountain Resort,290 in,"7,300 acres","3,100 ft","10,000 ft",41,87.4
+8,Beaver Creek Resort,328 in,"1,815 acres","3,340 ft","11,440 ft",25,87.3
+9,Winter Park Ski Resort,348 in,"3,081 acres","3,060 ft","10,700 ft",25,87.3
+10,Whitewater,393 in,"1,184 acres","2,044 ft","6,567 ft",4,85.6
+11,Solitude Mountain Resort,400 in,"1,200 acres","2,047 ft","10,035 ft",8,85.5
+12,Grand Targhee,465 in,"3,000 acres","2,592 ft","10,000 ft",5,85.4
+13,Steamboat Ski Resort,371 in,"2,965 acres","3,668 ft","10,568 ft",18,85.3
+14,Mammoth,356 in,"3,500 acres","3,100 ft","11,053 ft",28,84.8
+15,Big Sky Resort,284 in,"5,809 acres","3,666 ft","11,166 ft",21,84.4
+16,Revelstoke,359 in,"3,031 acres","5,620 ft","7,300 ft",4,84.4
+17,Squaw Valley,368 in,"3,600 acres","2,850 ft","9,050 ft",30,83.4
+18,Alyeska Resort,494 in,"1,500 acres","2,500 ft","2,750 ft",9,83.1
+19,Whitefish Mountain Resort,327 in,"3,000 acres","2,353 ft","6,817 ft",14,82.5
+20,Aspen Mountain - Ajax,252 in,675 acres,"3,267 ft","11,212 ft",8,81.8
+21,Kirkwood,463 in,"2,300 acres","2,000 ft","9,800 ft",14,81.7
+22,Aspen Highlands,253 in,"1,028 acres","3,635 ft","11,675 ft",5,81.2
+23,Breckenridge Ski Resort,283 in,"2,358 acres","3,240 ft","12,840 ft",31,81.1
+24,Loveland Ski Area,347 in,"1,800 acres","1,900 ft","12,700 ft",10,80.9
+25,Taos Ski Resort,258 in,"1,294 acres","3,243 ft","12,450 ft",13,80.9
+26,Brighton Ski Resort,431 in,"1,050 acres","1,750 ft","10,500 ft",6,80.8
+27,Arapahoe Basin Ski Area,316 in,900 acres,"1,692 ft","12,472 ft",7,80.7
+28,Deer Valley Resort,275 in,"2,026 acres","3,000 ft","9,570 ft",22,80.4
+29,Keystone Resort,235 in,"3,148 acres","2,718 ft","11,998 ft",20,80.0
+30,Stevens Pass Resort,475 in,"1,125 acres","1,829 ft","5,845 ft",10,79.8
+31,Powder Mountain Ski Resort,350 in,"3,200 acres","2,200 ft","8,900 ft",7,79.3
+32,Fernie Alpine Resort,373 in,"2,504 acres","3,550 ft","7,050 ft",10,79.2
+33,Copper Mountain,280 in,"2,465 acres","2,601 ft","12,313 ft",22,78.7
+34,Mt. Baker Ski Area,648 in,"1,000 acres","1,500 ft","5,089 ft",10,78.3
+35,Crystal Mountain Resort,410 in,"2,600 acres","2,472 ft","6,872 ft",11,78.2
+36,Wolf Creek Ski Resort,392 in,"1,600 acres","1,604 ft","11,904 ft",7,77.2
+37,Alpine Meadows,364 in,"2,400 acres","1,802 ft","8,637 ft",14,77.1
+38,Crested Butte Ski Resort,255 in,"1,547 acres","2,500 ft","11,875 ft",16,76.4
+39,Snowbasin Ski Resort,313 in,"2,820 acres","2,959 ft","9,250 ft",12,75.8
+40,Mt Hood Meadows,453 in,"2,150 acres","2,777 ft","7,300 ft",11,75.6
+41,Timberline Lodge,450 in,"1,415 acres","3,690 ft","8,540 ft",12,74.6
+42,Bridger Bowl Ski Area,301 in,"2,000 acres","2,700 ft","8,800 ft",7,74.4
+43,Powder King Mountain Resort,492 in,925 acres,"2,500 ft","5,500 ft",3,74.1
+44,Heavenly,322 in,"4,800 acres","3,500 ft","10,040 ft",30,73.7
+45,Northstar at Tahoe,316 in,"3,170 acres","2,280 ft","8,610 ft",20,73.5
+46,Mt. Bachelor,384 in,"3,683 acres","3,365 ft","9,065 ft",14,73.3
+47,Sunshine Village,257 in,"3,358 acres","3,514 ft","8,954 ft",12,72.6
+48,Red Mountain Resort,273 in,"1,686 acres","2,912 ft","6,800 ft",6,72.5
+49,Sugar Bowl Resort,456 in,"1,500 acres","1,500 ft","8,383 ft",13,72.1
+50,Brian Head Resort,312 in,650 acres,"1,707 ft","11,307 ft",9,71.6
+51,Sundance Ski Resort,275 in,450 acres,"2,150 ft","8,250 ft",3,71.3
+52,The Summit at Snoqualmie,386 in,"1,981 acres","2,280 ft","5,420 ft",25,70.0
+53,Purgatory Ski Resort,268 in,"1,360 acres","2,029 ft","10,822 ft",10,69.5
+54,Eaglecrest Ski Area,350 in,640 acres,"1,540 ft","2,600 ft",4,69.2
+55,Pomerelle Mountain Resort,325 in,500 acres,"1,000 ft","9,000 ft",3,69.1
+56,Sierra-at-Tahoe,390 in,"2,000 acres","2,212 ft","8,852 ft",14,68.8
+57,Mt. Rose,347 in,"1,200 acres","1,800 ft","9,700 ft",8,68.4
+58,Jay Peak,322 in,385 acres,"2,153 ft","3,968 ft",8,68.4
+59,Kicking Horse Resort,253 in,"2,800 acres","4,133 ft","8,033 ft",6,68.3
+60,Tamarack Resort,275 in,900 acres,"2,800 ft","7,700 ft",5,68.1
+61,Bogus Basin,246 in,"2,600 acres","1,782 ft","7,582 ft",8,68.0
+62,Eagle Point Ski Resort,325 in,"1,400 acres","1,400 ft","10,401 ft",6,67.8
+63,Stowe Mountain Resort,307 in,485 acres,"2,160 ft","4,395 ft",13,67.7
+64,Sun Valley Ski Resort,195 in,"2,054 acres","3,400 ft","9,150 ft",19,67.7
+65,Beaver Mountain Ski Area,300 in,525 acres,"1,600 ft","8,800 ft",3,67.5
+66,Schweitzer Mountain Resort,280 in,"2,900 acres","2,400 ft","6,400 ft",9,67.3
+67,Castle Mountain Resort,269 in,"1,400 acres","2,833 ft","7,463 ft",6,66.9
+68,Brundage Mountain Resort,301 in,"1,500 acres","1,800 ft","7,640 ft",5,66.4
+69,Big White Ski Resort,279 in,"2,765 acres","2,550 ft","7,606 ft",16,66.2
+70,Aspen Buttermilk,200 in,470 acres,"2,030 ft","9,900 ft",8,66.2
+71,Shames Mountain Ski Area,480 in,252 acres,"1,600 ft","3,900 ft",3,65.8
+72,Lost Trail Powder Mountain,300 in,900 acres,"1,800 ft","8,200 ft",5,65.6
+73,White Pass Ski Resort,380 in,"1,402 acres","2,050 ft","6,550 ft",8,65.6
+74,Monarch Mountain,286 in,800 acres,"1,162 ft","11,952 ft",7,65.2
+75,Silver Mountain Resort,275 in,"1,600 acres","2,200 ft","6,300 ft",7,64.8
+76,Ski Santa Fe Resort,225 in,660 acres,"1,725 ft","12,075 ft",7,64.2
+77,Lookout Pass,400 in,540 acres,"1,150 ft","5,650 ft",4,63.8
+78,Cypress Mountain,350 in,"1,482 acres","2,010 ft","5,000 ft",8,63.8
+79,Mount Washington Alpine Resort,393 in,"1,600 acres","1,658 ft","5,216 ft",9,63.6
+80,Lake Louise Ski Area,169 in,"4,200 acres","3,250 ft","8,650 ft",9,63.1
+81,Smugglers' Notch Resort,322 in,"1,000 acres","2,610 ft","3,640 ft",8,63.1
+82,Homewood Mountain Resort,350 in,"1,260 acres","1,650 ft","7,880 ft",8,62.3
+83,Bear Valley Mountain Resort,355 in,"1,680 acres","1,900 ft","8,500 ft",9,61.9
+84,Turner Mountain,300 in,"1,000 acres","2,110 ft","5,952 ft",1,61.7
+85,Sugarbush,272 in,508 acres,"2,600 ft","4,083 ft",16,61.3
+86,Anthony Lakes Mountain,300 in,"1,100 acres",900 ft,"8,000 ft",3,61.3
+87,Powderhorn Resort,225 in,"1,600 acres","1,650 ft","9,850 ft",5,61.0
+88,Panorama Mountain Village,188 in,"2,847 acres","4,000 ft","7,875 ft",9,60.9
+89,Killington,240 in,752 acres,"3,076 ft","4,241 ft",22,60.6
+90,Arctic Valley,250 in,320 acres,"1,500 ft",400 ft,3,60.4
+91,Boreal Mountain Resort,388 in,480 acres,500 ft,"7,700 ft",8,60.3
+92,Dodge Ridge,350 in,852 acres,"1,600 ft","8,200 ft",12,60.2
+93,Mt. Hood SkiBowl,350 in,960 acres,"1,500 ft","5,027 ft",9,60.2
+94,Diamond Peak,300 in,655 acres,"1,840 ft","8,540 ft",6,60.1
+95,Eldora Mountain Resort,225 in,680 acres,"1,600 ft","10,800 ft",11,59.9
+96,Silver Star Mountain Resort,223 in,"3,065 acres","2,500 ft","6,280 ft",12,59.6
+97,Willamette Pass,375 in,555 acres,"1,563 ft","6,683 ft",6,59.3
+98,49 Degrees North Mountain Resort,275 in,"2,325 acres","1,851 ft","5,774 ft",6,59.0
+99,Red Lodge Mountain Resort,200 in,"1,600 acres","2,400 ft","9,416 ft",7,59.0
+100,Montana Snowbowl,250 in,"1,200 acres","2,600 ft","7,600 ft",4,58.9
+101,Sunlight Mountain Ski Resort,235 in,470 acres,"2,010 ft","9,895 ft",3,58.5
+102,Blacktail Mountain,250 in,"1,000 acres","1,440 ft","6,780 ft",4,58.1
+103,Grouse Mountain,350 in,212 acres,"1,210 ft","4,100 ft",5,57.4
+104,Sun Peaks Resort,205 in,"3,678 acres","2,894 ft","7,060 ft",12,57.2
+105,Donner Ski Ranch,388 in,505 acres,750 ft,"7,781 ft",8,57.2
+106,Soda Springs,388 in,200 acres,652 ft,"7,352 ft",2,57.1
+107,Hoodoo Ski Area,375 in,800 acres,"1,035 ft","5,703 ft",5,56.8
+108,Apex Mountain Resort,228 in,"1,112 acres","2,000 ft","7,187 ft",4,56.6
+109,Discovery Ski Area,215 in,"2,200 acres","2,388 ft","8,158 ft",8,56.5
+110,Mad River Glen,269 in,115 acres,"2,037 ft","3,637 ft",4,56.4
+111,Pebble Creek Ski Area,225 in,"1,100 acres","2,260 ft","8,560 ft",3,56.0
+112,Bluewood,275 in,430 acres,"1,125 ft","5,670 ft",3,55.8
+113,Maverick Mountain Ski Area,225 in,255 acres,"2,020 ft","8,520 ft",2,55.4
+114,Snowy Range,245 in,250 acres,"1,000 ft","10,000 ft",5,55.2
+115,Arizona Snowbowl,204 in,777 acres,"2,300 ft","11,500 ft",6,54.8
+116,June Mountain,266 in,500 acres,"2,590 ft","10,135 ft",8,54.5
+117,Teton Pass Ski Area,255 in,407 acres,"1,010 ft","7,200 ft",3,54.2
+118,Sunday River Ski Resort,150 in,743 acres,"2,340 ft","3,140 ft",16,52.3
+119,China Peak,300 in,430 acres,"1,679 ft","8,709 ft",11,52.2
+120,Angel Fire Resort,210 in,445 acres,"2,077 ft","10,677 ft",7,51.7
+121,Mt. Ashland Ski,285 in,200 acres,"1,150 ft","7,500 ft",4,51.5
+122,Mount Seymour,350 in,200 acres,"1,083 ft","4,150 ft",5,51.4
+123,Marmot Basin,160 in,"1,675 acres","3,000 ft","8,570 ft",7,51.2
+124,Red River Ski Area,214 in,290 acres,"1,600 ft","10,350 ft",7,51.2
+125,Sugarloaf,173 in,"1,056 acres","2,820 ft","4,237 ft",14,51.0
+126,Pico Mountain,250 in,265 acres,"1,967 ft","3,967 ft",9,50.7
+127,Mont Tremblant,156 in,654 acres,"2,116 ft","2,871 ft",14,50.5
+128,Mont Sutton,237 in,230 acres,"1,500 ft","3,175 ft",9,50.5
+129,Cuchara Mountain Resort,200 in,225 acres,932 ft,"10,180 ft",5,50.3
+130,Le Massif,236 in,406 acres,"2,527 ft","2,645 ft",5,50.0
+131,Snow King Resort,150 in,400 acres,"1,571 ft","7,808 ft",5,49.9
+132,Mount Bohemia,249 in,450 acres,900 ft,"1,500 ft",2,49.7
+133,Whiteface Mountain,185 in,283 acres,"3,430 ft","4,650 ft",11,49.3
+134,Stoneham Mountain Resort,165 in,326 acres,"1,380 ft","2,075 ft",7,49.2
+135,Blue Mountain,110 in,251 acres,742 ft,"1,482 ft",12,49.0
+136,Mission Ridge Ski Area,170 in,"2,000 acres","2,270 ft","6,820 ft",6,48.7
+137,Okemo Mountain,166 in,632 acres,"2,200 ft","3,344 ft",19,48.7
+138,Ski Granby Ranch Resort,200 in,406 acres,"1,000 ft","9,202 ft",6,48.7
+139,Snow Summit,83 in,240 acres,"1,200 ft","8,200 ft",14,48.5
+140,Mt. Shasta Ski Park,300 in,425 acres,"1,435 ft","6,900 ft",5,48.5
+141,Great Divide,180 in,"1,600 acres","1,350 ft","7,250 ft",6,48.3
+142,Mt. Spokane Ski Area,200 in,"1,425 acres","1,689 ft","5,889 ft",5,47.8
+143,Bear Mountain Resort - CA,83 in,748 acres,"1,665 ft","8,805 ft",12,47.8
+144,Massif du Sud,236 in,226 acres,"1,312 ft","3,001 ft",2,47.6
+145,Indianhead Mountain,210 in,220 acres,638 ft,"1,935 ft",9,47.2
+146,Showdown Ski Area,175 in,640 acres,"1,400 ft","8,200 ft",4,46.9
+147,Antelope Butte,200 in,250 acres,"1,000 ft","9,400 ft",3,46.7
+148,Hudson Bay Mountain,200 in,300 acres,"1,750 ft","5,413 ft",4,46.6
+149,Nakiska Ski Resort,99 in,"1,021 acres","2,412 ft","7,415 ft",6,46.5
+150,Wildcat Mountain Ski Resort,225 in,225 acres,"2,112 ft","4,062 ft",4,46.5
+151,Hunter Mountain,125 in,240 acres,"1,600 ft","3,200 ft",11,46.4
+152,Stratton Mountain,188 in,600 acres,"2,003 ft","3,875 ft",11,46.3
+153,Ski Apache Ski Resort,185 in,750 acres,"1,900 ft","11,500 ft",11,46.1
+154,Pajarito Mountain,160 in,300 acres,"1,440 ft","10,440 ft",6,45.9
+155,Kelly Canyon Ski Resort,200 in,640 acres,"1,000 ft","6,600 ft",5,45.9
+156,Big Powderhorn Mountain,214 in,253 acres,600 ft,"1,200 ft",10,45.3
+157,Sipapu Ski Resort,190 in,200 acres,"1,055 ft","9,255 ft",5,44.9
+158,Bretton Woods Ski Resort,200 in,434 acres,"1,500 ft","3,100 ft",10,44.8
+159,Kimberley Alpine Resort,150 in,"1,800 acres","2,465 ft","6,500 ft",5,44.5
+160,Saddleback Maine,175 in,220 acres,"2,000 ft","4,120 ft",5,44.3
+161,Mont-Sainte-Anne,184 in,526 acres,"2,050 ft","2,625 ft",13,43.9
+162,White Pine Ski Resort,150 in,370 acres,"1,100 ft","9,500 ft",2,43.5
+163,Cannon Mountain Ski Resort,162 in,264 acres,"2,180 ft","4,080 ft",10,43.4
+164,Soldier Mountain,125 in,"1,150 acres","1,425 ft","7,177 ft",3,42.3
+165,Gore Mountain,150 in,428 acres,"2,537 ft","3,600 ft",13,41.9
+166,Loon Mountain,170 in,370 acres,"2,100 ft","3,050 ft",12,41.7
+167,Holiday Valley,180 in,282 acres,750 ft,"2,250 ft",13,41.5
+168,Mount Snow,167 in,590 acres,"1,700 ft","3,600 ft",23,41.4
+169,Marble Mountain Resort,200 in,225 acres,"1,758 ft","1,791 ft",4,41.2
+170,Mountain High Resort,122 in,290 acres,"1,600 ft","8,200 ft",14,40.8
+171,Attitash Resort,155 in,307 acres,"1,750 ft","2,350 ft",10,40.7
+172,Sandia Peak Ski Resort,125 in,200 acres,"1,700 ft","10,378 ft",6,40.5
+173,Burke Mountain,200 in,260 acres,"2,011 ft","3,267 ft",4,39.7
+174,Marshall Mountain,150 in,400 acres,"1,500 ft","5,400 ft",3,39.6
+175,Kissing Bridge,182 in,700 acres,550 ft,"1,750 ft",10,39.0
+176,Mt. Baldy,167 in,400 acres,"2,100 ft","8,600 ft",4,39.0
+177,Harper Mountain,156 in,400 acres,"1,400 ft","5,000 ft",3,39.0
+178,Snowshoe Mountain,156 in,235 acres,"1,500 ft","4,848 ft",15,38.1
+179,Moose Mountain,70 in,200 acres,"1,300 ft","1,985 ft",14,38.0
+180,Boyne Highlands,140 in,435 acres,554 ft,"1,290 ft",8,37.4
+181,Hemlock Resort,180 in,300 acres,"1,300 ft","4,500 ft",4,37.4
+182,Mt Lemmon Ski Valley,125 in,200 acres,950 ft,"9,157 ft",3,37.0
+183,Bromley Mountain,145 in,300 acres,"1,334 ft","3,284 ft",8,37.0
+184,Waterville Valley Ski Resort,185 in,220 acres,"1,020 ft","4,004 ft",12,36.0
+185,Troll Ski Resort,150 in,240 acres,"1,700 ft","5,000 ft",4,35.7
+186,Spout Springs,200 in,200 acres,610 ft,"5,500 ft",4,35.5
+187,Lutsen Mountains,114 in,"1,000 acres","1,000 ft","1,913 ft",10,35.3
+188,Terry Peak Ski Area,150 in,450 acres,"1,100 ft","7,052 ft",4,35.1
+189,Gunstock Ski Resort,120 in,227 acres,"1,400 ft","2,267 ft",8,34.7
+190,Mont Orford,140 in,246 acres,"1,933 ft","2,800 ft",9,34.5
+191,Ski Mystic Deer Mountain,150 in,300 acres,850 ft,"6,850 ft",2,34.2
+192,Shanty Creek Ski Resort,140 in,300 acres,450 ft,"1,125 ft",9,33.9
+193,Mount Sunapee Resort,100 in,233 acres,"1,510 ft","2,743 ft",11,33.5
+194,Snow Valley Ski Resort,146 in,240 acres,"1,041 ft","7,841 ft",12,33.5
+195,Labrador Mountain,125 in,250 acres,700 ft,"1,825 ft",4,33.4
+196,Nubs Nob,140 in,248 acres,427 ft,"1,338 ft",8,33.3
+197,Crystal Mountain Resort MI,140 in,80 acres,375 ft,"1,132 ft",8,33.2
+198,Shawnee Peak Ski Area,110 in,239 acres,"1,300 ft","1,900 ft",5,33.2
+199,Loup Loup Ski Bowl,150 in,300 acres,"1,240 ft","5,280 ft",3,33.1
+200,Swain Resort,130 in,60 acres,650 ft,"1,320 ft",5,32.9
+201,Ragged Mountain Resort,100 in,220 acres,"1,250 ft","2,250 ft",5,32.9
+202,Cranmore Mountain Resort,120 in,200 acres,"1,200 ft","2,000 ft",10,32.6
+203,Greek Peak,110 in,257 acres,952 ft,"2,100 ft",9,32.6
+204,Dry Hill Ski Area,125 in,220 acres,952 ft,"2,100 ft",3,32.5
+205,Boyne Mountain,140 in,415 acres,500 ft,"1,120 ft",10,32.4
+206,Ski Bromont,125 in,400 acres,"1,152 ft","1,693 ft",7,32.1
+207,Windham Mountain,110 in,269 acres,"1,600 ft","3,100 ft",10,32.1
+208,Granite Peak,75 in,275 acres,700 ft,"1,924 ft",8,32.0
+209,Silver Summit,100 in,640 acres,976 ft,"4,750 ft",3,31.6
+210,Caberfae Peaks Ski & Golf Resort,125 in,200 acres,509 ft,"1,569 ft",6,31.5
+211,Whitecap Mountains,150 in,500 acres,400 ft,"1,750 ft",7,31.3
+212,Seven Springs Mountain Resort,105 in,285 acres,754 ft,"2,994 ft",13,30.5
+213,Berkshire East,110 in,400 acres,"1,180 ft","1,840 ft",6,29.9
+214,Warner Canyon,150 in,200 acres,780 ft,"6,480 ft",1,29.8
+215,Giants Ridge,85 in,202 acres,500 ft,"1,970 ft",7,29.0
+216,Afton Alps,55 in,300 acres,350 ft,"1,530 ft",18,27.9
+217,Bousquet Ski Area,83 in,200 acres,750 ft,"1,875 ft",5,26.6
+218,Devil's Head Resort,70 in,300 acres,500 ft,995 ft,12,26.2
+219,Pine Mountain Resort,75 in,340 acres,500 ft,"1,650 ft",3,24.3
