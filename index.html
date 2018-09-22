@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Mountain Do</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+    <!-- Custom fonts for this template -->
+    <!-- <link href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet" type="text/css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- <script src = "/data/dataset.js"></script> -->
+
+  </head>
+
+  <body id="page-top">
+    <div id="loading" class="text-center">
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Mountain Do</a>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#map">Global Map</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+                <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#maxTemp">North American Map</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#minTemp">About</a>
+            </li>
+           
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+    <!-- header -->
+    <div class="video-header wrap">
+      <div class="fullscreen-video-wrap">
+        <video autoplay loop>
+          <source src="videos/mountain-film-2.mp4" type="video/mp4">
+          <source src="videos/mountain-film-2.ogv" type="video/ogg">
+        </video>
+        <div class="header-overlay">
+          <div class="header-content text-white">
+            <h1 class="text-uppercase mb-0">Mountain Do</h1>
+            <p>A web-application designed to provide you with relevant info on ski resort locations.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- intro section -->
+    <section class="bg-primary text-white mb-0" id="charts">
+        <div class="container">
+          <h2 class="text-center text-uppercase text-white">World Ski Resorts</h2>
+        </div>
+      </section>
+
+    <!-- map leaflet section -->
+    <section class="bg-white portfolio" id="map">
+      <iframe class="col-lg-8 offset-lg-2 text-center" src="/iFrames/d3.html" height="820" frameborder="0" scrolling="no"></iframe>
+      <div class="col-lg-10 mx-auto">
+        <br>
+        <p class="lead"> </p>
+      </div>
+    </section>
+
+    <!-- line charts section -->
+    <section class="bg-primary text-white mb-0" id="charts">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-white">North America Ski Resorts</h2>
+      </div>
+    </section>
+
+    <!-- map leaflet section -->
+    <section class="bg-white portfolio" id="map">
+        <iframe class="col-lg-8 offset-lg-2 text-center" src="/iFrames/d3_2.html" height="820" frameborder="0" scrolling="no"></iframe>
+        <div class="col-lg-10 mx-auto">
+          <br>
+          <p class="lead"> </p>
+        </div>
+      </section>
+    
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <h4 class="text-uppercase mb-4">empty:</h4>
+            <p class="lead mb-0">empty</p>
+          </div>
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <h4 class="text-uppercase mb-4">Placeholder</h4>
+            
+            
+          </div>
+          
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+   
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-to-top d-lg-none position-fixed ">
+      <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div>
+
+    <script type="text/javascript" language="javascript">
+      window.onload = function() {
+        document.getElementById('loading').style.display = 'none';
+      };
+    </script>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!-- Plugin JavaScript -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+
+    <!-- <script src="{{ url_for('static', filename='js/freelancer.min.js') }}"></script> -->
+    <!--<script src="/js/content.js"></script>
+
+  </body>
+
+</html>
